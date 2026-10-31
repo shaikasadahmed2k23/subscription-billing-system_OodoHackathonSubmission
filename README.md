@@ -1,15 +1,16 @@
-> 🤝 **Team project** built in a 1-day hackathon (Oct 31, 2026) with Prakash, Madhumitha and Amarnath.
-> Original repo: https://github.com/madhu2007-offical/Subscription-Billing-System
-> **Live:** [App](https://subscription-billing-system-1.onrender.com) · [API docs](https://subscription-billing-system.onrender.com/docs)
->
-> **My part:** PostgreSQL schema design (22 tables, triggers, double-billing guard, RLS on Supabase), FastAPI billing core (subscription state machine, pricing engine, idempotent billing run, invoices, payments), and Render deployment.
-> 
+ 
 <p align="center">
   <img src="logo-full.png" alt="Brightloop Logo" width="320">
 </p>
 
 <h1 align="center">Subscription Billing System</h1>
 
+> 🤝 **Team project** built in a 1-day hackathon (Oct 31, 2026) with Prakash, Madhumitha and Amarnath.
+> Original repo: https://github.com/madhu2007-offical/Subscription-Billing-System
+> **Live:** [App](https://subscription-billing-system-1.onrender.com) · [API docs](https://subscription-billing-system.onrender.com/docs)
+>
+> **My part:** PostgreSQL schema design (22 tables, triggers, double-billing guard, RLS on Supabase), FastAPI billing core (subscription state machine, pricing engine, idempotent billing run, invoices, payments), and Render deployment.
+>
 
 One platform to run plans, subscriptions and recurring billing in one place.
 
